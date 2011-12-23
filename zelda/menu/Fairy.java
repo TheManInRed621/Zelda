@@ -6,7 +6,7 @@ import zelda.engine.Game;
 
 /**
  *
- * @author maartenhus
+ * @author maartenhus+tylerbaldwin
  */
 public class Fairy extends GObject
 {
